@@ -4,7 +4,7 @@
   "description": "A preprocessor to help use LiveScript with Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "keywords": [
     "LiveScript",
@@ -15,6 +15,10 @@
   ],
   "author": "Egor Kolotaev <ekolotaev@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/kolotaev/livescript-jest",
+  "bugs": {
+    "url": "https://github.com/kolotaev/livescript-jest/issues"
+  },
   "dependencies": {
     "livescript": "*"
   },
