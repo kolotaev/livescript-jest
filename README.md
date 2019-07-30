@@ -24,7 +24,7 @@ yarn add livescript-jest
 In your `package.json` or `jest.config.json` specify ".ls" files preprocessor:
 
 ```json
-  "jest" :{
+  "jest": {
     "transform": {
       "^.+\\.ls$": "livescript-jest",
     },
