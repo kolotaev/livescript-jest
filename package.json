@@ -1,6 +1,6 @@
 {
   "name": "livescript-jest",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A preprocessor to help use LiveScript with Jest",
   "main": "index.js",
   "scripts": {
